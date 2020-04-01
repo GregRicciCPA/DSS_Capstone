@@ -34,3 +34,11 @@ This course will be separated into 8 different tasks that cover the range of act
 
 
 The Repository will contain Journal, Data sources and code.
+
+You will use all of the skills you have learned during the Data Science Specialization in this course, but you'll notice that we are tackling a brand new application: analysis of text data and natural language processing. This choice is on purpose. As a practicing data scientist you will be frequently confronted with new data types and problems. A big part of the fun and challenge of being a data scientist is figuring out how to work with these new data types to build data products people love. The capstone will be evaluated based on the following assessments:
+
+    An introductory quiz to test whether you have downloaded and can manipulate the data.
+    An intermediate R markdown report that describes in plain language, plots, and code your exploratory analysis of the course data set.
+    Two natural language processing quizzes, where you apply your predictive model to real data to check how it is working.
+    A Shiny app that takes as input a phrase (multiple words), one clicks submit, and it predicts the next word.
+    A 5 slide deck created with R presentations pitching your algorithm and app to your boss or investor.
