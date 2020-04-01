@@ -1,6 +1,7 @@
 # DSS_Capstone
-Data Science Specialization Capstone
-Capstone Project for the Data Science Specialization
+Data Science Specialization Capstone 
+
+# *Capstone Project for the Data Science Specialization
 
 # You are a data scientist now: (Yeah!)
 
