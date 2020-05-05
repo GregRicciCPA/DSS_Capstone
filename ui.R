@@ -5,7 +5,7 @@
 # Shiny App
 
 library(shiny)
-library(tableHTML)
+
 
 shinyUI(pageWithSidebar(
     headerPanel(h1("The Word Predictor...",style='background-color:coral;
@@ -42,14 +42,14 @@ shinyUI(pageWithSidebar(
       
       titlePanel(em("The Word Predictor - see the next word...")),
      
-        h4("...Twitter"),
+        h4("...The next word"),
         verbatimTextOutput("twitter_next",placeholder = TRUE),
 
-        h4("...Blogs"),
-        verbatimTextOutput("blogs_next", placeholder = TRUE),
-        
-        h4("...News", placeholder = TRUE),
-        verbatimTextOutput("news_next"),
+      #         h4("...Blogs"),
+      #     verbatimTextOutput("blogs_next", placeholder = TRUE),
+      #    
+      #   h4("...News", placeholder = TRUE),
+      #   verbatimTextOutput("news_next"),
 
         br(),
       )
